@@ -2,7 +2,7 @@
   "sticker_packs": [
     {
       "identifier": "9",
-      "name": "Love Dog",
+      "name": "Islamic 9",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -22,7 +22,7 @@
     },
     {
       "identifier": "10",
-      "name": "Cats",
+      "name": "Islamic 10",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -48,7 +48,7 @@
     },
     {
       "identifier": "11",
-      "name": "Love you",
+      "name": "Islamic 11",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -74,7 +74,7 @@
     },
     {
       "identifier": "12",
-      "name": "Love bb",
+      "name": "Islamic 12",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -100,7 +100,7 @@
     },
     {
       "identifier": "13",
-      "name": "Animated",
+      "name": "Islamic 13",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -123,11 +123,10 @@
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/13/14.webp", "emojis": ["❤️"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/13/15.webp", "emojis": ["❤️"] }
       ]
-      ]
     },
     {
       "identifier": "14",
-      "name": "Anime Love",
+      "name": "Islamic 14",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -146,10 +145,11 @@
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/14/10.webp", "emojis": ["👍"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/14/11.webp", "emojis": ["❤️"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/14/12.webp", "emojis": ["💖"] }
+      ]
     },
     {
       "identifier": "15",
-      "name": "Anime",
+      "name": "Islamic 15",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -172,7 +172,7 @@
     },
     {
       "identifier": "16",
-      "name": "Anime Couple",
+      "name": "Islamic 16",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -198,7 +198,7 @@
     },
     {
       "identifier": "17",
-      "name": "Fox",
+      "name": "Islamic 17",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -221,12 +221,10 @@
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/17/14.webp", "emojis": ["❤️"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/17/15.webp", "emojis": ["❤️"] }
       ]
-      ]
-      ]
     },
     {
       "identifier": "18",
-      "name": "Sickers Love",
+      "name": "Islamic 18",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -246,7 +244,7 @@
     },
     {
       "identifier": "19",
-      "name": "Roses",
+      "name": "Islamic 19",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -272,7 +270,7 @@
     },
     {
       "identifier": "20",
-      "name": "Stickers",
+      "name": "Islamic 20",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -295,7 +293,7 @@
     },
     {
       "identifier": "21",
-      "name": "Eternal love",
+      "name": "Islamic 21",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -318,7 +316,7 @@
     },
     {
       "identifier": "22",
-      "name": "Couple",
+      "name": "Islamic 22",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -341,7 +339,7 @@
     },
     {
       "identifier": "23",
-      "name": "Romantic",
+      "name": "Islamic 23",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -364,7 +362,7 @@
     },
     {
       "identifier": "24",
-      "name": "Black Anime",
+      "name": "Islamic 24",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -390,7 +388,7 @@
     },
     {
       "identifier": "25",
-      "name": "Mocha",
+      "name": "Islamic 25",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -413,7 +411,7 @@
     },
     {
       "identifier": "26",
-      "name": "Friendship",
+      "name": "Islamic 26",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -439,7 +437,7 @@
     },
     {
       "identifier": "27",
-      "name": "LOVE",
+      "name": "Islamic 27",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -465,7 +463,7 @@
     },
     {
       "identifier": "28",
-      "name": "Couple 1",
+      "name": "Islamic 28",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -485,7 +483,7 @@
     },
     {
       "identifier": "29",
-      "name": "coco flowers",
+      "name": "Islamic 29",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -503,15 +501,15 @@
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/9.webp", "emojis": ["❤️"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/10.webp", "emojis": ["❤️"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/11.webp", "emojis": ["❤️"] },
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/12.webp", "emojis": ["❤️"] }
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/13.webp", "emojis": ["❤️"] }
-        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/14.webp", "emojis": ["❤️"] }
+        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/12.webp", "emojis": ["❤️"] },
+        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/13.webp", "emojis": ["❤️"] },
+        { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/14.webp", "emojis": ["❤️"] },
         { "image_file": "https://cdn.jsdelivr.net/gh/deeproma075-eng/stickerislamic@mainislamic/29/15.webp", "emojis": ["❤️"] }
       ]
     },
     {
       "identifier": "30",
-      "name": "Rose",
+      "name": "Islamic 30",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -534,7 +532,7 @@
     },
     {
       "identifier": "31",
-      "name": "Duck",
+      "name": "Islamic 31",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -560,7 +558,7 @@
     },
     {
       "identifier": "32",
-      "name": "Couple 1",
+      "name": "Islamic 32",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -580,7 +578,7 @@
     },
     {
       "identifier": "33",
-      "name": "Anime 1",
+      "name": "Islamic 33",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -603,7 +601,7 @@
     },
     {
       "identifier": "34",
-      "name": "Heart",
+      "name": "Islamic 34",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -623,7 +621,7 @@
     },
     {
       "identifier": "35",
-      "name": "Moving heart",
+      "name": "Islamic 35",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -652,7 +650,7 @@
     },
     {
       "identifier": "36",
-      "name": "Miss you",
+      "name": "Islamic 36",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -678,7 +676,7 @@
     },
     {
       "identifier": "37",
-      "name": "I love",
+      "name": "Islamic 37",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -701,7 +699,7 @@
     },
     {
       "identifier": "38",
-      "name": "I love",
+      "name": "Islamic 38",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -727,7 +725,7 @@
     },
     {
       "identifier": "39",
-      "name": "I love",
+      "name": "Islamic 39",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -749,7 +747,7 @@
     },
     {
       "identifier": "40",
-      "name": "I love",
+      "name": "Islamic 40",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
@@ -774,7 +772,7 @@
     },
     {
       "identifier": "41",
-      "name": "I love",
+      "name": "Islamic 41",
       "publisher": "Devroma",
       "image_data_version": "1",
       "avoid_cache": false,
