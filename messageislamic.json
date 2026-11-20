@@ -3,7 +3,7 @@
     {
       "categoryName": "أحاديث نبوية",
       "description": "أحاديث صحيحة من السنة النبوية الشريفة",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/1.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/1.jpg",
       "quotes": [
         "قال رسول الله ﷺ: إنما الأعمال بالنيات، وإنما لكل امرئ ما نوى. (صحيح البخاري وصحيح مسلم)",
         "قال رسول الله ﷺ: من كان يؤمن بالله واليوم الآخر فليقل خيرًا أو ليصمت. (صحيح البخاري وصحيح مسلم)",
@@ -40,7 +40,7 @@
     {
       "categoryName": "أدعية إسلامية",
       "description": "أدعية مباركة من القرآن الكريم والسنة النبوية",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/2.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/2.jpg",
       "quotes": [
         "ربنا آتنا في الدنيا حسنة وفي الآخرة حسنة وقنا عذاب النار. (سورة البقرة: 201)",
         "ربنا لا تزغ قلوبنا بعد إذ هديتنا وهب لنا من لدنك رحمة إنك أنت الوهاب. (سورة آل عمران: 8)",
@@ -76,7 +76,7 @@
     {
       "categoryName": "أذكار الصباح",
       "description": "أذكار الصباح الصحيحة لحفظ المسلم وطمأنينة قلبه",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/3.png",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/3.png",
       "quotes": [
         "آية الكرسي: الله لا إله إلا هو الحي القيوم لا تأخذه سنة ولا نوم له ما في السماوات وما في الأرض من ذا الذي يشفع عنده إلا بإذنه يعلم ما بين أيديهم وما خلفهم ولا يحيطون بشيء من علمه إلا بما شاء وسع كرسيه السماوات والأرض ولا يؤوده حفظهما وهو العلي العظيم. (سورة البقرة: 255) تقرأ مرة واحدة.",
         "سورة الإخلاص: قل هو الله أحد الله الصمد لم يلد ولم يولد ولم يكن له كفوًا أحد. تقرأ ثلاث مرات صباحًا.",
@@ -111,7 +111,7 @@
     {
       "categoryName": "قصص الأنبياء",
       "description": "قصص وعبر من حياة أنبياء الله ورسله",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/4.png",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/4.png",
       "quotes": [
         "كان نوح عليه السلام يدعو قومه إلى عبادة الله وحده ليلًا ونهارًا، وصبر على أذاهم زمنًا طويلًا، فكان مثالًا عظيمًا في الصبر والثبات على الدعوة إلى الحق. (سورة نوح)",
         "ابتلى الله إبراهيم عليه السلام بأوامر عظيمة فاستجاب لها، فجعله إمامًا للناس، وفي قصته درس في الطاعة والتوكل واليقين بالله. (سورة البقرة: 124)",
@@ -148,7 +148,7 @@
     {
       "categoryName": "فضائل الأعمال",
       "description": "أعمال صالحة تقرب المسلم من رضا الله والجنة",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/5.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/5.jpg",
       "quotes": [
         "المحافظة على الصلاة في أوقاتها من أعظم الأعمال التي يتقرب بها العبد إلى الله، وهي صلة يومية بين المسلم وربه. (سورة النساء: 103)",
         "قراءة القرآن بتدبر تفتح للقلب أبواب الهداية، وتعين المسلم على معرفة الحق والعمل بما يرضي الله. (سورة ص: 29)",
@@ -184,7 +184,7 @@
     {
       "categoryName": "أذكار المساء",
       "description": "أذكار المساء المأثورة للحفظ والسكينة وذكر الله",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/6.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/6.jpg",
       "quotes": [
         "أمسينا وأمسى الملك لله والحمد لله، لا إله إلا الله وحده لا شريك له، له الملك وله الحمد وهو على كل شيء قدير. (صحيح مسلم)",
         "اللهم بك أمسينا وبك أصبحنا وبك نحيا وبك نموت وإليك المصير. (سنن الترمذي)",
@@ -221,7 +221,7 @@
     {
       "categoryName": "أسماء الله الحسنى",
       "description": "تعرف على أسماء الله الحسنى ومعانيها العظيمة",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/7.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/7.jpg",
       "quotes": [
         "الرحمن: واسع الرحمة، الذي وسعت رحمته جميع خلقه، وهو سبحانه أرحم الراحمين.",
         "الرحيم: الذي يرحم عباده رحمة عظيمة، ويخص المؤمنين برحمته وفضله.",
@@ -258,7 +258,7 @@
     {
       "categoryName": "آيات قرآنية للتدبر",
       "description": "آيات من القرآن الكريم تهدي القلوب وتنير العقول",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/8.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/8.jpg",
       "quotes": [
         "ألا بذكر الله تطمئن القلوب. (سورة الرعد: 28)",
         "فإن مع العسر يسرا إن مع العسر يسرا. (سورة الشرح: 5-6)",
@@ -293,7 +293,7 @@
     {
       "categoryName": "التوبة والاستغفار",
       "description": "كلمات إيمانية عن التوبة والرجوع إلى الله",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/9.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/9.jpg",
       "quotes": [
         "باب التوبة مفتوح لكل عبد مهما كثرت ذنوبه، فلا تيأس من رحمة الله، وارجع إليه بقلب صادق ونية خالصة.",
         "التوبة الصادقة تبدأ بالندم على الذنب، والإقلاع عنه، والعزم على عدم العودة إليه، ورد الحقوق إلى أصحابها.",
@@ -330,7 +330,7 @@
     {
       "categoryName": "الصبر والثبات",
       "description": "معانٍ إيمانية تعين على الصبر والثبات",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/10.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/10.jpg",
       "quotes": [
         "الصبر عبادة عظيمة، ومن يتق الله يجعل له من أمره يسراً.",
         "لا تيأس عند الشدائد، فالله يعلم ما تخفيه الصدور.",
@@ -367,7 +367,7 @@
     {
       "categoryName": "الأخلاق الإسلامية",
       "description": "قيم وأخلاق من هدي الإسلام وتعاليمه",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/11.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/11.jpg",
       "quotes": [
         "الكلمة الطيبة صدقة، فاجعل لسانك سبباً في إسعاد الآخرين.",
         "المسلم من سلم الناس من لسانه ويده.",
@@ -403,7 +403,7 @@
     {
       "categoryName": "بر الوالدين وصلة الرحم",
       "description": "تذكير بفضل الوالدين وصلة الأقارب",
-      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/stickerislamic/icon/12.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/deeproma075-eng/stickerislamic/refs/heads/mainislamic/icon/12.jpg",
       "quotes": [
         "بر الوالدين من أعظم أبواب الخير ورضا الله.",
         "اخفض جناح الرحمة لوالديك، وادع لهما كما ربياني صغيراً.",
